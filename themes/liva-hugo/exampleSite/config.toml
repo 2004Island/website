@@ -1,8 +1,8 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = ""
 languageCode = "en-us"
 title = "varunscircuits"
-theme = "liva-hugo"
+theme = ""
 summaryLength = "10"
 paginate = 6
 disqusShortname = ""
